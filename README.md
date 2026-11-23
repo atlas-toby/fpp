@@ -9,7 +9,7 @@ C ile sıfırdan yazılmış, kendi yorumlayıcısına (`fpp`), sıfırdan **x86
 **Gereksinim:** Windows + `gcc` (MinGW-W64)
 
 ```bat
-git clone https://github.com/<KULLANICI_ADIN>/fpp.git
+git clone https://github.com/atlas-toby/fpp.git
 cd fpp
 setup.bat
 ```
