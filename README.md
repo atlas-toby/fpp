@@ -6,7 +6,7 @@ C ile sıfırdan yazılmış, kendi yorumlayıcısına (`fpp`), sıfırdan **x86
 
 ## Kurulum (Her Bilgisayarda)
 
-**Gereksinim:** Windows + `gcc` (MinGW-W64)
+**Gereksinim:** Sadece Windows (hiçbir C derleyicisi veya ek araç gerekmez)
 
 ```bat
 git clone https://github.com/atlas-toby/fpp.git
